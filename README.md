@@ -20,7 +20,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href=" https://linkedin.com/in/https://www.linkedin.com/in/francisco-batista-4225872b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-batista-4225872b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href ="https://instagram.com/https://www.instagram.com/francisco_ne70?igsh=mty0bxlkb25hnmt3aa==" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/francisco_ne70?igsh=mty0bxlkb25hnmt3aa==" altura ="30" width="40" /></a>
+<a href = "https://www.instagram.com/francisco_ne70?igsh=mty0bxlkb25hnmt3aa==" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/francisco_ne70?igsh=mty0bxlkb25hnmt3aa==" altura ="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
