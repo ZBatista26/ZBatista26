@@ -13,7 +13,7 @@
 
 - 📫 Como entrar em contato comigo **franciscobatista744 @gmail.com**
 
-- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/francisco-batista-4225872b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin .com/in/francisco-batista-4225872b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/francisco-batista-4225872b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 - 🏆 Certificações **https://www.credly.com/users/francisco-batista.d51e5039**
 
