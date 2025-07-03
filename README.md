@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Francisco Batista</h1>
-<h3 align="center">Faço técnico em desenvolvimento de sistemas no SENAC. Atualmente estou estudando JavaScript e Git. Fiz uma certificação pela Cisco de JavaScript Essentials 1. Atualmente estou fazendo outras certificações de Cibersegurança e Scrum</h3>
+<h3 align="center">Sou estudante de desenvolvimento de sistemas da instituição Senac</h3>
 
 
 <h3 align="left">Conecte-se comigo:</h3>
