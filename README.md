@@ -18,4 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbatista26&" alt="zbatista26" /></p>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ZBatista26/ZBatista26/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-star.vercel.app/api/pin/?username=ZBatista26&repo=ZBatista26&theme=react)](https://github.com/ZBatista26/ZBatista26)
+
