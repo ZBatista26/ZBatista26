@@ -4,17 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy "><img src="https://github-profile-trophy.vercel.app/?username=zbatista26" alt="zbatista26" /></a> </p>
 
-- ✍️ Estou aprendendo atualmente **JavaScript, Git, Cybersegurança.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/ZBatista26/ZBatista26](https://github.com/ZBatista26/ZBatista26)
-
-- 💬 Pergunte-me sobre **React, JavaScript.**
-
-- 📫 Como entrar em contato comigo **franciscobatista744 @gmail.com**
-
-- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/francisco-batista-4225872b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-
-- 🏆 Certificações **https://www.credly.com/users/francisco-batista.d51e5039**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
