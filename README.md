@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Francisco Batista</h1>
 <h3 align="center">Faço técnico em desenvolvimento de sistemas no SENAC. Atualmente estou estudando JavaScript e Git. Fiz uma certificação pela Cisco de JavaScript Essentials 1. Atualmente estou fazendo outras certificações de Cibersegurança e Scrum</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbatista26&label =Perfil%20views&color=0e75b6&style=flat" alt="zbatista26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy "><img src="https://github-profile-trophy.vercel.app/?username=zbatista26" alt="zbatista26" /></a> </p>
 
